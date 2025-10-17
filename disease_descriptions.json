@@ -1,0 +1,320 @@
+{
+    "Harlequin Ichthyosis": {
+        "description": "a severe genetic skin disorder characterized by thick, diamond-shaped plates of skin separated by deep cracks",
+        "symptoms": "Thick, plate-like skin, deep red cracks between plates, ectropion (eyelids turned outward), eclabium (lips turned outward), breathing difficulties",
+        "treatment": "Intensive neonatal care, humidified incubator, topical emollients, systemic retinoids, careful monitoring of temperature and hydration",
+        "prevalence": "1 in 300,000 births"
+    },
+    "Progeria (Hutchinson-Gilford Syndrome)": {
+        "description": "an extremely rare genetic disorder that causes rapid aging in children",
+        "symptoms": "Growth failure, loss of body fat, hair loss, aged-looking skin, stiff joints, hip dislocation, generalized atherosclerosis, cardiovascular disease",
+        "treatment": "Symptomatic management, low-dose aspirin, physical therapy, feeding tube if necessary, ongoing cardiac care",
+        "prevalence": "1 in 4-8 million births"
+    },
+    "Fibrodysplasia Ossificans Progressiva": {
+        "description": "a rare genetic disorder where soft tissue gradually turns into bone",
+        "symptoms": "Malformed big toes at birth, painful soft tissue swellings that ossify, progressive loss of mobility, formation of extra-skeletal bone",
+        "treatment": "No cure exists, management focuses on preventing injury that might trigger flare-ups, corticosteroids during flare-ups, avoiding biopsies and surgeries",
+        "prevalence": "1 in 2 million people"
+    },
+    "Alkaptonuria": {
+        "description": "a rare inherited genetic disorder where the body cannot break down certain amino acids",
+        "symptoms": "Darkening of urine when exposed to air, dark pigmentation of connective tissues (ochronosis), arthritis in spine and large joints, heart valve problems",
+        "treatment": "Pain management for arthritis, physical therapy, limited protein diet, vitamin C supplementation, joint replacement surgery if needed",
+        "prevalence": "1 in 250,000-1,000,000 people"
+    },
+    "Xeroderma Pigmentosum": {
+        "description": "a rare genetic disorder characterized by extreme sensitivity to ultraviolet light",
+        "symptoms": "Severe sunburn after minimal sun exposure, freckling at an early age, dry skin, changes in skin pigmentation, high risk of skin cancers, eye problems",
+        "treatment": "Complete protection from UV light, protective clothing, sunscreen, regular skin exams, early treatment of precancerous lesions, genetic counseling",
+        "prevalence": "1 in 1,000,000 people in US and Europe"
+    },
+    "Fields Disease": {
+        "description": "an extremely rare neuromuscular disease that affects only two known patients worldwide",
+        "symptoms": "Progressive muscle weakness, difficulty with motor skills, muscle twitching, respiratory difficulties",
+        "treatment": "Symptomatic treatment, physical therapy, respiratory support",
+        "prevalence": "Only 2 known cases worldwide"
+    },
+    "Methemoglobinemia": {
+        "description": "a blood disorder where abnormal amounts of methemoglobin are produced",
+        "symptoms": "Cyanosis (bluish skin), headache, fatigue, shortness of breath, lack of energy",
+        "treatment": "Methylene blue, ascorbic acid, hyperbaric oxygen therapy, blood transfusion in severe cases",
+        "prevalence": "Fewer than 1,000 cases in US"
+    },
+    "Aquagenic Urticaria": {
+        "description": "an extremely rare form of physical urticaria where contact with water causes hives",
+        "symptoms": "Itching, burning, red skin, hives after contact with water regardless of temperature",
+        "treatment": "Antihistamines, UV therapy, barrier creams, capsaicin cream, omalizumab",
+        "prevalence": "Approximately 50 cases reported in medical literature"
+    },
+    "Stoneman Syndrome": {
+        "description": "a disorder in which muscle tissue and connective tissue such as tendons and ligaments are gradually replaced by bone",
+        "symptoms": "Malformation of big toes, painful soft tissue swellings, progressive loss of mobility, extra bone formation",
+        "treatment": "No cure, management focuses on preventing injury, corticosteroids during flare-ups",
+        "prevalence": "1 in 2 million people"
+    },
+    "Kuru": {
+        "description": "a rare, fatal neurodegenerative disorder caused by prions, formerly common among the Fore people of Papua New Guinea",
+        "symptoms": "Body tremors, loss of coordination, difficulty walking, involuntary movements, dementia",
+        "treatment": "No cure, supportive care only",
+        "prevalence": "Extremely rare, mostly historical"
+    },
+    "Microcephaly": {
+        "description": "a rare neurological condition where an infant's head is significantly smaller than expected",
+        "symptoms": "Small head size, developmental delays, intellectual disability, poor motor function, dwarfism",
+        "treatment": "Early intervention programs, speech therapy, physical therapy, occupational therapy",
+        "prevalence": "2-12 babies per 10,000 births"
+    },
+    "Parry-Romberg Syndrome": {
+        "description": "a rare disorder characterized by progressive shrinkage and degeneration of tissues beneath the skin",
+        "symptoms": "Facial atrophy, seizures, facial pain, hair loss, dental abnormalities, eye problems",
+        "treatment": "Reconstructive surgery, fat grafts, medications for pain and seizures, dental care",
+        "prevalence": "1 in 250,000 people"
+    },
+    "Alice in Wonderland Syndrome": {
+        "description": "a rare neurological disorder characterized by distortions of visual perception",
+        "symptoms": "Distorted body image, micropsia, macropsia, distorted sense of time, visual hallucinations",
+        "treatment": "Treatment of underlying cause, migraine prophylaxis, reassurance",
+        "prevalence": "Uncommon but exact prevalence unknown"
+    },
+    "Argyria": {
+        "description": "a condition caused by excessive exposure to silver, resulting in blue or gray discoloration of the skin",
+        "symptoms": "Blue-gray skin discoloration, particularly in sun-exposed areas, may be generalized or localized",
+        "treatment": "No effective treatment, prevention, laser therapy may help in some cases",
+        "prevalence": "Rare, exact numbers unknown"
+    },
+    "Auto-brewery Syndrome": {
+        "description": "a rare condition where ethanol is produced through endogenous fermentation by fungi or bacteria in the gastrointestinal system",
+        "symptoms": "Signs of alcohol intoxication without consuming alcohol, dizziness, dry mouth, hangovers, disorientation, chronic fatigue syndrome",
+        "treatment": "Antifungal medications, low-carbohydrate diet, probiotics, treatment of underlying conditions",
+        "prevalence": "Extremely rare, only about 20 cases reported in medical literature"
+    },
+    "Congenital Insensitivity to Pain": {
+        "description": "a rare condition where a person cannot feel physical pain",
+        "symptoms": "Inability to feel physical pain, self-injury, repeated severe injuries, corneal damage, bone fractures",
+        "treatment": "Preventive care, regular medical checkups, protective measures, dental care, psychological support",
+        "prevalence": "Extremely rare, only about 20 cases documented in US"
+    },
+    "Hereditary Angioedema": {
+        "description": "a rare genetic disorder characterized by recurrent episodes of severe swelling in various parts of the body",
+        "symptoms": "Swelling in hands, feet, face, airway, abdominal pain, nausea, vomiting, airway obstruction",
+        "treatment": "C1 esterase inhibitor, icatibant, ecallantide, fresh frozen plasma, androgens, prophylactic treatment",
+        "prevalence": "1 in 10,000 to 1 in 50,000 people"
+    },
+    "Möbius Syndrome": {
+        "description": "a rare neurological disorder characterized by facial paralysis and inability to move the eyes from side to side",
+        "symptoms": "Facial paralysis, inability to form facial expressions, feeding difficulties, speech difficulties, eye problems",
+        "treatment": "Supportive care, speech therapy, physical therapy, eye protection, reconstructive surgery",
+        "prevalence": "2 to 20 cases per million births"
+    },
+    "Porphyria": {
+        "description": "a group of rare disorders caused by deficiencies in enzymes involved in heme production",
+        "symptoms": "Abdominal pain, chest pain, vomiting, confusion, constipation, tachycardia, hypertension, skin blisters",
+        "treatment": "Hemin, glucose loading, pain management, avoidance of triggers, sun protection",
+        "prevalence": "1 in 500 to 1 in 50,000 people depending on type"
+    },
+    "Lesch-Nyhan Syndrome": {
+        "description": "a rare inherited disorder caused by deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase",
+        "symptoms": "Neurological disability, self-mutilation, aggressive behavior, gout, impaired kidney function, speech impairment",
+        "treatment": "Allopurinol, behavioral management, physical restraints, medication for behavior, supportive care",
+        "prevalence": "1 in 380,000 births"
+    },
+    "Epidermolysis Bullosa": {
+        "description": "a group of rare diseases that cause fragile, blistering skin",
+        "symptoms": "Fragile skin that blisters easily, blisters inside the mouth and throat, thickened skin and nails, hair loss, thin-appearing skin",
+        "treatment": "Wound care, protective bandaging, pain management, nutritional support, avoiding skin trauma, potential gene therapy or bone marrow transplantation",
+        "prevalence": "20 per million live births"
+    },
+    "Necrotizing Fasciitis": {
+        "description": "a rare bacterial infection that spreads quickly in the body and can cause death",
+        "symptoms": "Rapidly spreading inflammation, severe pain, fever, redness, swelling, purple patches, blisters",
+        "treatment": "Emergency surgery, intravenous antibiotics, supportive care, hyperbaric oxygen therapy",
+        "prevalence": "0.4 to 1.9 cases per 100,000 people"
+    },
+    "Stevens-Johnson Syndrome": {
+        "description": "a rare, serious disorder of the skin and mucous membranes",
+        "symptoms": "Facial swelling, tongue swelling, hives, skin pain, red or purple skin rash, blisters, shedding of skin",
+        "treatment": "Hospitalization, stopping causative medication, pain medication, antibiotics, IV fluids, wound care",
+        "prevalence": "1-2 cases per million people annually"
+    },
+    "Toxic Epidermal Necrolysis": {
+        "description": "a life-threatening skin disorder characterized by blistering and peeling of the skin",
+        "symptoms": "Widespread skin pain, rash, blisters, peeling of large areas of skin, fever, malaise",
+        "treatment": "ICU care, stopping causative drug, wound care, pain management, IV fluids, infection control",
+        "prevalence": "0.4-1.9 cases per million people annually"
+    },
+    "Wilson's Disease": {
+        "description": "a rare inherited disorder that causes copper to accumulate in the liver, brain and other vital organs",
+        "symptoms": "Fatigue, lack of appetite, abdominal pain, jaundice, golden-brown eye discoloration, fluid buildup, speech problems",
+        "treatment": "Penicillamine, trientine, zinc acetate, liver transplant in severe cases, low-copper diet",
+        "prevalence": "1 in 30,000 people"
+    },
+    "Addison's Disease": {
+        "description": "a rare disorder characterized by inadequate production of cortisol and aldosterone by the adrenal glands",
+        "symptoms": "Extreme fatigue, weight loss, low blood pressure, darkening of skin, salt craving, low blood sugar, nausea",
+        "treatment": "Hormone replacement therapy, hydrocortisone, fludrocortisone, emergency injection for crisis",
+        "prevalence": "1 in 100,000 people"
+    },
+    "Cushing's Syndrome": {
+        "description": "a rare disorder caused by prolonged exposure to high levels of cortisol",
+        "symptoms": "Weight gain, fatty hump between shoulders, rounded face, pink or purple stretch marks, slow healing, acne",
+        "treatment": "Surgery, radiation therapy, chemotherapy, cortisol-inhibiting medications, reducing corticosteroid use",
+        "prevalence": "10-15 per million people annually"
+    },
+    "Gaucher's Disease": {
+        "description": "a rare genetic disorder where fatty substances accumulate in cells and certain organs",
+        "symptoms": "Abdominal complaints, skeletal abnormalities, anemia, fatigue, easy bruising, enlarged liver and spleen",
+        "treatment": "Enzyme replacement therapy, miglustat, eliglustat, bone marrow transplant, pain medication",
+        "prevalence": "1 in 50,000 to 100,000 people"
+    },
+    "Huntington's Disease": {
+        "description": "a rare, inherited disease that causes the progressive breakdown of nerve cells in the brain",
+        "symptoms": "Involuntary movements, impaired coordination, difficulty reasoning, mood changes, depression, irritability",
+        "treatment": "No cure, tetrabenazine for movements, antidepressants, antipsychotics, speech therapy, physical therapy",
+        "prevalence": "3-7 per 100,000 people of European descent"
+    },
+    "Creutzfeldt-Jakob Disease": {
+        "description": "a rare, degenerative, fatal brain disorder that affects about one person in every one million per year",
+        "symptoms": "Memory problems, behavioral changes, poor coordination, visual disturbances, involuntary movements, blindness",
+        "treatment": "No cure, focused on alleviating symptoms, pain medication, clonazepam or sodium valproate for myoclonus",
+        "prevalence": "1-2 cases per million people annually"
+    },
+    "Elephantiasis": {
+        "description": "a rare disease characterized by gross enlargement of an area of the body, especially the limbs",
+        "symptoms": "Swelling and thickening of skin and underlying tissues, especially in legs, arms, genitals, and breasts",
+        "treatment": "Antiparasitic drugs, antibiotics, surgery in severe cases, compression therapy, elevation, hygiene measures",
+        "prevalence": "Varies by region, 120 million people infected worldwide in endemic areas"
+    },
+    "Marfan Syndrome": {
+        "description": "a genetic disorder that affects the body's connective tissue",
+        "symptoms": "Tall and slender build, disproportionately long arms and legs, curved spine, chest sinks or sticks out, heart murmurs",
+        "treatment": "Regular monitoring, beta blockers, surgery to repair aorta, eye care, bone strengthening medications",
+        "prevalence": "1 in 5,000 people"
+    },
+    "Ehlers-Danlos Syndrome": {
+        "description": "a group of inherited disorders that affect connective tissues, primarily skin, joints and blood vessel walls",
+        "symptoms": "Overly flexible joints, stretchy skin, fragile skin, delayed wound healing, atrophic scarring, chronic pain",
+        "treatment": "Physical therapy, bracing, pain management, cardiovascular monitoring, surgical repair of joints",
+        "prevalence": "1 in 5,000 people"
+    },
+    "Osteogenesis Imperfecta": {
+        "description": "a group of genetic disorders that mainly affect the bones, resulting in bones that break easily",
+        "symptoms": "Frequent bone fractures, short stature, hearing loss, breathing problems, loose joints, blue sclera",
+        "treatment": "Bisphosphonates, physical therapy, mobility aids, surgery to strengthen bones, fracture care",
+        "prevalence": "6-7 per 100,000 people"
+    },
+    "Tay-Sachs Disease": {
+        "description": "a rare inherited disorder that progressively destroys nerve cells in the brain and spinal cord",
+        "symptoms": "Exaggerated startle response, loss of motor skills, increasing weakness, loss of vision, deafness, paralysis",
+        "treatment": "Supportive care, respiratory care, feeding tubes, medication for seizures, physical therapy",
+        "prevalence": "1 in 320,000 newborns in general population"
+    },
+    "Niemann-Pick Disease": {
+        "description": "a group of severe inherited metabolic disorders where sphingomyelin accumulates in lysosomes in cells",
+        "symptoms": "Loss of motor skills, enlarged liver and spleen, feeding difficulties, learning disabilities, seizures, eye problems",
+        "treatment": "Miglustat, supportive care, physical therapy, occupational therapy, anti-seizure medications",
+        "prevalence": "1 in 250,000 people"
+    },
+    "Kawasaki Disease": {
+        "description": "a rare childhood illness that causes inflammation in the walls of blood vessels throughout the body",
+        "symptoms": "High fever, rash, swollen hands and feet, red eyes, red cracked lips, swollen lymph nodes, irritability",
+        "treatment": "Intravenous immunoglobulin, high-dose aspirin, corticosteroids in some cases, follow-up heart exams",
+        "prevalence": "9-20 per 100,000 children under 5 in US"
+    },
+    "Goodpasture Syndrome": {
+        "description": "a rare autoimmune disorder in which antibodies attack the basement membrane in lungs and kidneys",
+        "symptoms": "Fatigue, nausea, difficulty breathing, pale skin, bloody sputum, burning with urination, high blood pressure",
+        "treatment": "Plasmapheresis, corticosteroids, cyclophosphamide, dialysis, kidney transplant, smoking cessation",
+        "prevalence": "1-2 cases per million people"
+    },
+    "Wegener's Granulomatosis": {
+        "description": "a rare disorder that causes inflammation of blood vessels, restricting blood flow to various organs",
+        "symptoms": "Persistent runny nose, nosebleeds, sinus infections, cough, shortness of breath, joint pain, skin sores",
+        "treatment": "Corticosteroids, cyclophosphamide, rituximab, methotrexate, antibiotics for infections",
+        "prevalence": "3 per 100,000 people"
+    },
+    "Behçet's Disease": {
+        "description": "a rare disorder that causes blood vessel inflammation throughout the body",
+        "symptoms": "Mouth sores, eye inflammation, skin rashes, genital sores, joint swelling, gastrointestinal problems",
+        "treatment": "Corticosteroids, immunosuppressants, colchicine, interferon alfa-2b, TNF inhibitors",
+        "prevalence": "5-10 per 100,000 people in Middle East and Asia"
+    },
+    "Sarcoidosis": {
+        "description": "a disease characterized by the growth of tiny collections of inflammatory cells in any part of the body",
+        "symptoms": "Fatigue, fever, swollen lymph nodes, weight loss, persistent dry cough, shortness of breath, skin lesions",
+        "treatment": "Corticosteroids, methotrexate, hydroxychloroquine, TNF inhibitors, organ-specific treatments",
+        "prevalence": "10-40 per 100,000 people"
+    },
+    "Scleroderma": {
+        "description": "a group of rare diseases that involve the hardening and tightening of the skin and connective tissues",
+        "symptoms": "Hardened skin, Raynaud's phenomenon, heartburn, difficulty swallowing, shortness of breath, high blood pressure",
+        "treatment": "Immunosuppressants, physical therapy, light therapy, blood pressure medications, stomach acid reducers",
+        "prevalence": "50-300 per million people"
+    },
+    "Amyotrophic Lateral Sclerosis (ALS)": {
+        "description": "a progressive nervous system disease that affects nerve cells in the brain and spinal cord",
+        "symptoms": "Difficulty walking, weakness in legs, hand weakness, slurred speech, muscle cramps, difficulty holding head up",
+        "treatment": "Riluzole, edaravone, physical therapy, speech therapy, nutritional support, breathing support",
+        "prevalence": "2-5 per 100,000 people"
+    },
+    "Multiple System Atrophy": {
+        "description": "a rare neurodegenerative disorder characterized by autonomic dysfunction, tremors, slow movement, and muscle rigidity",
+        "symptoms": "Orthostatic hypotension, urinary incontinence, constipation, muscle rigidity, tremors, slow movement, imbalance",
+        "treatment": "Fludrocortisone, midodrine, levodopa, catheterization, physical therapy, speech therapy",
+        "prevalence": "3-5 per 100,000 people"
+    },
+    "Primary Immunodeficiency Diseases": {
+        "description": "a group of more than 400 rare, chronic disorders where part of the body's immune system is missing or functions improperly",
+        "symptoms": "Frequent infections, infections that don't respond to treatment, poor growth, autoimmunity, inflammation",
+        "treatment": "Immunoglobulin therapy, antibiotic prophylaxis, stem cell transplantation, gene therapy",
+        "prevalence": "1 in 1,200-2,000 people"
+    },
+    "Pulmonary Arterial Hypertension": {
+        "description": "a rare, progressive disorder characterized by high blood pressure in the arteries of the lungs",
+        "symptoms": "Shortness of breath, fatigue, dizziness, fainting, chest pressure, swelling in ankles and legs, bluish lips",
+        "treatment": "Calcium channel blockers, endothelin receptor antagonists, phosphodiesterase inhibitors, prostacyclin analogs",
+        "prevalence": "15-50 per million people"
+    },
+    "Cystic Fibrosis": {
+        "description": "a hereditary disorder that affects the lungs and digestive system, causing mucus to become thick and sticky",
+        "symptoms": "Persistent cough, wheezing, recurrent lung infections, poor growth, greasy stools, nasal polyps, clubbed fingers",
+        "treatment": "Airway clearance techniques, bronchodilators, antibiotics, pancreatic enzyme supplements, CFTR modulators",
+        "prevalence": "1 in 2,500-3,500 white newborns"
+    },
+    "Duchenne Muscular Dystrophy": {
+        "description": "a genetic disorder characterized by progressive muscle degeneration and weakness",
+        "symptoms": "Frequent falls, difficulty rising, waddling gait, large calf muscles, learning disabilities, cardiac problems",
+        "treatment": "Corticosteroids, physical therapy, respiratory care, cardiac care, orthopedic devices, surgery",
+        "prevalence": "1 in 3,500-5,000 male births"
+    },
+    "Myasthenia Gravis": {
+        "description": "a chronic autoimmune neuromuscular disease that causes weakness in the skeletal muscles",
+        "symptoms": "Drooping eyelids, double vision, difficulty speaking, difficulty swallowing, weakness in arms and legs",
+        "treatment": "Cholinesterase inhibitors, corticosteroids, immunosuppressants, plasmapheresis, intravenous immunoglobulin",
+        "prevalence": "14-20 per 100,000 people"
+    },
+    "Phenylketonuria (PKU)": {
+        "description": "a rare inherited disorder that causes an amino acid called phenylalanine to build up in the body",
+        "symptoms": "Intellectual disability, behavioral problems, seizures, hyperactivity, musty odor, skin rashes, small head size",
+        "treatment": "Lifelong low-phenylalanine diet, special medical formula, medication (sapropterin), close monitoring",
+        "prevalence": "1 in 10,000-15,000 births"
+    },
+    "Galactosemia": {
+        "description": "a rare genetic metabolic disorder that affects an individual's ability to metabolize galactose properly",
+        "symptoms": "Vomiting, diarrhea, lethargy, failure to thrive, jaundice, liver damage, bleeding, infections",
+        "treatment": "Lifelong galactose-free diet, calcium supplements, speech therapy, occupational therapy, hormone treatment",
+        "prevalence": "1 in 30,000-60,000 births"
+    },
+    "Maple Syrup Urine Disease": {
+        "description": "a rare inherited disorder where the body cannot process certain amino acids properly",
+        "symptoms": "Poor feeding, vomiting, lack of energy, seizures, coma, developmental delay, maple syrup odor in urine",
+        "treatment": "Lifelong protein-restricted diet, special medical formula, close monitoring, hospitalization during illness",
+        "prevalence": "1 in 185,000 infants worldwide"
+    },
+    "Homocystinuria": {
+        "description": "an inherited disorder that prevents the body from processing the amino acid methionine properly",
+        "symptoms": "Dislocation of lens in eye, nearsightedness, abnormal blood clots, osteoporosis, learning disabilities",
+        "treatment": "High-dose vitamin B6, low-methionine diet, betaine, cysteine supplement, blood thinners",
+        "prevalence": "1 in 200,000-335,000 people worldwide"
+    }
+}

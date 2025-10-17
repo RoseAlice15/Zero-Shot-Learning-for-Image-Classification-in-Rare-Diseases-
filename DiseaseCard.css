@@ -1,0 +1,106 @@
+.disease-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.disease-card.expanded {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  cursor: pointer;
+  background-color: #f8f9fa;
+  transition: background-color 0.2s;
+}
+
+.card-header:hover {
+  background-color: #e9ecef;
+}
+
+.card-header h3 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1.2rem;
+  flex: 1;
+}
+
+.confidence-badge {
+  padding: 5px 12px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.85rem;
+  margin: 0 15px;
+}
+
+.expand-icon {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #7f8c8d;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.prevalence {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.info-section {
+  margin-bottom: 20px;
+}
+
+.info-section h4 {
+  margin: 0 0 10px 0;
+  color: #3498db;
+  font-size: 1.1rem;
+}
+
+.info-section p {
+  margin: 0;
+  line-height: 1.6;
+  color: #2c3e50;
+}
+
+.disclaimer {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #856404;
+}
+
+@media (max-width: 768px) {
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .confidence-badge {
+    margin: 0;
+    align-self: flex-start;
+  }
+  
+  .expand-icon {
+    position: absolute;
+    right: 20px;
+    top: 15px;
+  }
+}
